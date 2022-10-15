@@ -91,11 +91,8 @@ left: 45%;
 .images .shape{
     width: 500px;
     height: 550px;
-     border-top-left-radius:1000em 1000em;
-    border-top-right-radius: 900em 900em;
-    border-bottom-left-radius: 900em 800em;
-    border-bottom-right-radius: 850em 950em; 
-    border-radius: 100% 100% 100% 100% / 100% 100% 100% 100%   ;
+
+    border-radius: 50% 50% 48% 52% / 100% 100% 0% 0%    ;
 }
 .detail a:hover{
     background-color: blue;
